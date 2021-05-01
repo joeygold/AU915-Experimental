@@ -1,4 +1,6 @@
 # AU915-Experimental  for LoRaWAN  1.02
+precomplied ready to do hex image to to be programmed in to the RN2903A  using  ICSP or bootloader
+https://github.com/joeygold/AU915-Experimental/blob/main/RN2903_Parser.production_AU915_105_exp.hex
 *********Disclaimer *******
 Not tested,  Use at own risk
 
