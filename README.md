@@ -1,4 +1,4 @@
-# AU915-Experimental
+# AU915-Experimental  for LoRaWAN  1.02
 *********Disclaimer *******
 Not tested,  Use at own risk
 
