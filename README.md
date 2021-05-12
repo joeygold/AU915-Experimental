@@ -3,6 +3,7 @@ precomplied ready to do hex image to to be programmed in to the RN2903A  using  
 https://github.com/joeygold/AU915-Experimental/blob/main/RN2903_Parser.production_AU915_105_exp.hex
 *********Disclaimer *******
 Not tested,  Use at own risk
+(original source LoRaWAN source code https://github.com/MicrochipTech/RN2xx3_LORAWAN_FIRMWARE)
 
 Full MPLAB X project   in Zip file
 =======================
