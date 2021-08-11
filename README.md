@@ -13,7 +13,6 @@ https://github.com/joeygold/AU915-Experimental/blob/main/RN2903_Parser%20AU915%2
 
 **Dependancies**
 MPLAB X  5.15
-
 RN2903_Parser  AU915 1v05
 Project Type: Application - Configuration: combined
 Device PIC18LF46K22
